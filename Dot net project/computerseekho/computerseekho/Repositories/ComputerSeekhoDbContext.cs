@@ -10,5 +10,9 @@ namespace Computer_Seekho.Repositories
        public DbSet<Course>courses { get; set; }
        public  DbSet<StaffMaster> staffmasters { get; set; }
        public  DbSet<AdminEnquiry> adminEnquiry { get; set; }
+        public DbSet<Followup> followup { get; set; }
+       
     }
+    
+   
 }
