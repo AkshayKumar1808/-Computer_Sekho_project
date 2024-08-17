@@ -1,10 +1,10 @@
-﻿using Computer_Seekho.Models;
-using Computer_Seekho.Services;
+﻿using computerseekho.Models;
+using computerseekho.Services;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace Computer_Seekho.Controllers
+namespace computerseekho.Controllers
 {
     [Route("api/staff/[controller]")]
     [ApiController]

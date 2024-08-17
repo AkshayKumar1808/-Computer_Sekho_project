@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKR/08Y8oA/AFbfrmevXvA09cg2Q3mw0nnia8/2NLJRw6OxMsvFsYYPH1lPrjn5WycwSJWj29HDh+Ag2FaPlGQ==",
+  "dgSpecHash": "Yx8l2rMTQIawp9TCBD4MYiN9k9c3C6m+JcerELhElQiT03HO0wmI8oixj2Jsg0HC7mm/JGemLvXrq/az6t8c9Q==",
   "success": true,
-  "projectFilePath": "F:\\dotcomputerseekho\\computerseekho\\computerseekho\\computerseekho.csproj",
+  "projectFilePath": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\computerseekho.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\himanshu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\himanshu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

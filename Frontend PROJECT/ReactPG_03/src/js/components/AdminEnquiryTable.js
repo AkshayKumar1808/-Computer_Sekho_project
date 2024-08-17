@@ -8,13 +8,14 @@ const AdminEnquiryTable = ({ enquiries, updateEnquiryStatus, deleteEnquiry }) =>
                     <th>ID</th>
                     <th>Enquirer Name</th>
                     <th>Student Name</th>
-                    <th>Address</th>
+                    <th>Address </th>
                     <th>Mobile</th>
                     <th>Email</th>
                     <th>Course</th>
                     <th>Staff</th>
-                    <th>Enquiry Date</th>
-                    <th>Active</th>
+                    <th>Enquiry <br/>Date</th>
+                    <th>Followup <br/>Date</th>
+                    
                     <th>Actions</th>
                 </tr>
             </thead>
@@ -27,14 +28,13 @@ const AdminEnquiryTable = ({ enquiries, updateEnquiryStatus, deleteEnquiry }) =>
                         <td>{enquiry.address}</td>
                         <td>{enquiry.mobile}</td>
                         <td>{enquiry.emailId}</td>
-                        <td>{enquiry.course?.courseName || 'N/A'}</td>
-                        <td>{enquiry.staff?.staffname || 'N/A'}</td>
+                        <td>{enquiry.courseName || 'N/A'}</td>
+                        <td>{enquiry.staffName || 'N/A'}</td>
                         <td>{new Date(enquiry.enquiryDate).toLocaleDateString()}</td>
-                        <td>{enquiry.isActive ? 'Yes' : 'No'}</td>
+                        <td>{new Date(enquiry.followUpDate).toLocaleDateString()}</td>
+                        
                         <td>
-                            <button onClick={() => updateEnquiryStatus(enquiry.enquiryId, !enquiry.isActive)}>
-                                {enquiry.isActive ? 'Deactivate' : 'Activate'}
-                            </button>
+                            
                             <button onClick={() => deleteEnquiry(enquiry.enquiryId)}>Delete</button>
                         </td>
                     </tr>

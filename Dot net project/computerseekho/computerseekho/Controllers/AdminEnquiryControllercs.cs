@@ -1,11 +1,11 @@
-﻿using Computer_Seekho.DTO;
-using Computer_Seekho.Models;
-using Computer_Seekho.Services;
+﻿using computerseekho.DTO;
+using computerseekho.Models;
+using computerseekho.Services;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
-using static Computer_Seekho.DTO.AdminEnquiryDTO;
+using static computerseekho.DTO.AdminEnquiryDTO;
 
-namespace Computer_Seekho.Controllers
+namespace computerseekho.Controllers
 {
     [Route("api/AdminEnquiry/[controller]")]
     [ApiController]

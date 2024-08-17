@@ -1,11 +1,11 @@
-﻿using Computer_Seekho.DTO;
-using Computer_Seekho.Models;
-using Computer_Seekho.Repositories;
+﻿using computerseekho.DTO;
+using computerseekho.Models;
+using computerseekho.Repositories;
 using Microsoft.EntityFrameworkCore;
-using static Computer_Seekho.DTO.AdminEnquiryDTO;
+using static computerseekho.DTO.AdminEnquiryDTO;
 
 
-namespace Computer_Seekho.Services
+namespace computerseekho.Services
 {
    
     public class AdminEnquiryServiceImpl : IAdminEnquiryService

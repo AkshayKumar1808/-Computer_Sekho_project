@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
-namespace Computer_Seekho.Models
+namespace computerseekho.Models
 {
     public class AdminEnquiry
     {

@@ -18,7 +18,6 @@ const Course = () => {
         const url = 'http://localhost:8080/api/pta/getallcourse/course';
         try {
             const data = await fetchData(url);
-            console.log(data);
             setCourses(data);
         } catch (error) {
             console.error('Error fetching courses:', error);

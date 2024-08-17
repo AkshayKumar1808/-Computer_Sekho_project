@@ -1,6 +1,6 @@
-﻿using Computer_Seekho.Models;
+﻿using computerseekho.Models;
 
-namespace Computer_Seekho.Services
+namespace computerseekho.Services
 {
     public interface IStaffService
     {

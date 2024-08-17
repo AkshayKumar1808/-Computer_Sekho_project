@@ -1,14 +1,15 @@
-
-
 import React from 'react';
-import { Outlet } from 'react-router-dom'; // Import Outlet for nested routes
 
-const App = () => {
+import ContactUs from './js/contactus';
+import Header from './js/components/Header';
+
+function App() {
   return (
     <div>
-      <Outlet /> {/* Render child routes here */}
+      <Header/>
     </div>
   );
-};
+}
 
 export default App;
+

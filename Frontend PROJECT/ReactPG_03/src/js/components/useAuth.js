@@ -1,8 +1,8 @@
 import { useState } from 'react';
 
 const useAuth = () => {
-    const getAuthToken = () => sessionStorage.getItem('jwt');
-    const getRefreshToken = () => sessionStorage.getItem('refreshToken');
+    const getAuthToken = () => localStorage.getItem('jwt1');
+    const getRefreshToken = () => localStorage.getItem('refreshToken');
 
     const refreshToken = async () => {
         try {
@@ -18,7 +18,7 @@ const useAuth = () => {
             if (response.ok) {
                 const newToken = await response.text();
                 console.log('New JWT Token:', newToken);
-                sessionStorage.setItem('jwt', newToken);
+                localStorage.setItem('jwt', newToken);
                 return newToken;
             } else {
                 console.error('Failed to refresh token');
@@ -33,8 +33,8 @@ const useAuth = () => {
     };
 
     const handleUnauthorized = () => {
-        sessionStorage.removeItem('jwt');
-        sessionStorage.removeItem('refreshToken');
+        localStorage.removeItem('jwt');
+        localStorage.removeItem('refreshToken');
         window.location.href = '/login'; // Redirect to login page
     };
 

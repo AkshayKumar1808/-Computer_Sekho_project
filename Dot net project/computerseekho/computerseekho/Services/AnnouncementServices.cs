@@ -9,9 +9,9 @@ namespace computerseekho.Services
 {
     public class AnnouncementService:IAnnouncementServices
     {
-        private readonly ApplicationDbContext _context;
+        private readonly ComputerSeekhoDbContext _context;
 
-        public AnnouncementService(ApplicationDbContext context)
+        public AnnouncementService(ComputerSeekhoDbContext context)
         {
             _context = context;
         }

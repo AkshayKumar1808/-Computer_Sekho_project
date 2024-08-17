@@ -1,4 +1,4 @@
-﻿namespace Computer_Seekho.DTO
+﻿namespace computerseekho.DTO
 {
     public class AdminEnquiryDTO
     {

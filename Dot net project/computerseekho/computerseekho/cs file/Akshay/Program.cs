@@ -1,9 +1,9 @@
 
-using Computer_Seekho.Repositories;
-using Computer_Seekho.Services;
+using computerseekho.Repositories;
+using computerseekho.Services;
 using Microsoft.EntityFrameworkCore;
 
-namespace Computer_Seekho
+namespace computerseekho
 {
     public class Program
     {

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../../css/Footer.css'; // Import your custom CSS
 
@@ -19,9 +20,9 @@ export default function Footer() {
                     </Col>
                     <Col md={4} className="footer-section">
                         <h5>Follow Us</h5>
-                        <a href="#" className="footer-link">Facebook</a><br />
-                        <a href="#" className="footer-link">Twitter</a><br />
-                        <a href="#" className="footer-link">LinkedIn</a>
+                        <Link to="#" className="footer-link">Facebook</Link><br />
+                        <Link to="#" className="footer-link">Twitter</Link><br />
+                        <Link to="#" className="footer-link">LinkedIn</Link>
                     </Col>
                 </Row>
             </Container>

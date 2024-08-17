@@ -10922,11 +10922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\dotcomputerseekho\\computerseekho\\computerseekho\\computerseekho.csproj",
+      "projectUniqueName": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\computerseekho.csproj",
       "projectName": "computerseekho",
-      "projectPath": "F:\\dotcomputerseekho\\computerseekho\\computerseekho\\computerseekho.csproj",
+      "projectPath": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\computerseekho.csproj",
       "packagesPath": "C:\\Users\\himanshu\\.nuget\\packages\\",
-      "outputPath": "F:\\dotcomputerseekho\\computerseekho\\computerseekho\\obj\\",
+      "outputPath": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\himanshu\\AppData\\Roaming\\NuGet\\NuGet.Config",

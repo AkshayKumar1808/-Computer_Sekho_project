@@ -1,9 +1,9 @@
-﻿using Computer_Seekho.Models;
+﻿using computerseekho.Models;
 
-using Computer_Seekho.Repositories;
+using computerseekho.Repositories;
 using Microsoft.EntityFrameworkCore;
 
-namespace Computer_Seekho.Services
+namespace computerseekho.Services
 {
     public class CourseImpl : ICourseService
     {

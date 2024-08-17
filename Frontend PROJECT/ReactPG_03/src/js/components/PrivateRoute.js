@@ -1,7 +1,8 @@
 import React from 'react';
 import { Navigate } from 'react-router-dom';
-export const getJwtToken = () => sessionStorage.getItem('jwt');
 
+
+export const getJwtToken = () => localStorage.getItem('jwt1');
 
 const PrivateRoute = ({ children }) => {
     const jwt = getJwtToken();

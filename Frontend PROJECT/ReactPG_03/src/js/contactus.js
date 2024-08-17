@@ -8,6 +8,7 @@ import Footer from './components/Footer';
 function ContactUs() {
   return (
     <div>
+      <Header />
       <div className="contact-us container">
         <h1 className="contact-title">Contact Us</h1>
         
@@ -19,9 +20,7 @@ function ContactUs() {
               school to Post-Graduate courses.</p>
           </div>
           
-          
           <div className="contact-details">
-          
             <p><strong>Address:</strong> 123 Main Street, Anytown, USA</p>
             <p><strong>Phone:</strong> (123) 456-7890</p>
             <p><strong>Email:</strong> contact@company.com</p>

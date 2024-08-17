@@ -4,6 +4,7 @@ import '../css/admin.css';
 
 function Admin() {
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [staffName,setStaffName]=useState()
 
   const handleAddClick = () => {
     // Additional logic for Add Enquiry if needed

@@ -1,4 +1,4 @@
-﻿namespace Computer_Seekho.Models
+﻿namespace computerseekho.Models
 {
     public class Course
     {

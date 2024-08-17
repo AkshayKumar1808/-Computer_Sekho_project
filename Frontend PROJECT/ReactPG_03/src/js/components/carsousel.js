@@ -2,7 +2,7 @@ import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { getImageUrl } from '../Utils';
-import '../components/css/Carousel.css'; // Import the CSS file
+import '../../css/Carousel.css'; // Import the CSS file
 
 
 export default function Carousel(){
@@ -18,10 +18,13 @@ export default function Carousel(){
         <div>
           <Slider {...settings}>
             <div>
-              <img className="carousel-image" src={getImageUrl('sliders/cloud-coding.jpg')} alt="Slide 1" />
+              <img className="carousel-image" src={getImageUrl('home/cloud-coding.jpg')} alt="Slide 1" />
             </div>
             <div>
-              <img className="carousel-image" src={getImageUrl('sliders/main1.png')} alt="Slide 2" />
+              <img className="carousel-image" src="https://via.placeholder.com/800x300?text=Slide+2" alt="Slide 2" />
+            </div>
+            <div>
+              <img className="carousel-image" src="https://via.placeholder.com/800x300?text=Slide+3" alt="Slide 3" />
             </div>
           </Slider>
         </div>

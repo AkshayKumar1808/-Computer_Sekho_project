@@ -47,59 +47,26 @@ const AdminEnquiry = () => {
         }
     };
 
-    const addEnquiry = async (enquiry) => {
-        const url = 'http://localhost:8080/api/admin/Add';
-        try {
-            await fetchData(url, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify(enquiry),
-            });
-            fetchEnquiries();
-            setShowForm(false);
-        } catch (error) {
-            console.error('Error adding enquiry:', error);
-        }
-    };
+    
 
-    // const updateEnquiry = async (id, updatedEnquiry) => {
-    //     const url = `http://localhost:8080/api/admin/up/${id}`;
-    //     try {
-    //         await fetchData(url, {
-    //             method: 'PUT',
-    //             headers: {
-    //                 'Content-Type': 'application/json',
-    //             },
-    //             body: JSON.stringify(updatedEnquiry),
-    //         });
-    //         fetchEnquiries();
-    //         setEditing(false);
-    //         setShowForm(false);
-    //     } catch (error) {
-    //         console.error('Error updating enquiry:', error);
-    //     }
-    // };
     const updateEnquiry = async (id, updatedEnquiry) => {
         const url = `http://localhost:8080/api/admin/up/${id}`;
         try {
-            const response = await fetch(url, {
+            await fetchData(url, {
                 method: 'PUT',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${sessionStorage.getItem('jwt')}`,
                 },
                 body: JSON.stringify(updatedEnquiry),
             });
-            if (!response.ok) {
-                throw new Error('Failed to update enquiry');
-            }
             fetchEnquiries();
+            setEditing(false);
+            setShowForm(false);
         } catch (error) {
             console.error('Error updating enquiry:', error);
         }
     };
+    
 
     const updateEnquiryStatus = async (id, isActive) => {
         const updatedEnquiry = enquiries.find(enquiry => enquiry.enquiryId === id);
@@ -109,28 +76,59 @@ const AdminEnquiry = () => {
         }
     };
 
-    const deleteEnquiry = async (id) => {
-        const url = `http://localhost:8080/api/admin/del/${id}`;
+    const deleteEnquiry = async (id) =>{
+
+        const url=`http://localhost:8080/api/admin/del/${id}`;
         try {
             await fetchData(url, {
                 method: 'DELETE',
-            });
-            fetchEnquiries();
-        } catch (error) {
+                });
+                fetchEnquiries();
+
+        }catch(error){
             console.error('Error deleting enquiry:', error);
         }
-    };
+    }
 
+
+
+
+
+
+
+
+
+    /*const deleteEnquiry = async (id) => { 
+        fetch(`http://localhost:8080/api/pta/del/${id}`,{
+            method:'DELETE',
+            headers: {  
+                'Authorization':`Bearer ${sessionStorage.getItem('jwt1')}`
+            },
+           
+        }).then(res => res)
+        .then((result) => {
+        console.log(result)
+        }); 
+        fetchEnquiries();
+        //navigate('/admin/enquirytable');
+        
+        
+    };
     const editEnquiry = (enquiry) => {
         setCurrentEnquiry(enquiry);
         setEditing(true);
         setShowForm(true);
+    };*/
+
+    const handleclik=()=>{
+        const jwt=sessionStorage.getItem('jwt1');
+        console.log(jwt);
     };
 
     return (
         <div>
             <h1>Admin Enquiries</h1>
-           
+           <button onClick={handleclik}>jwt</button>
             <AdminEnquiryTable
                 enquiries={enquiries}
                 updateEnquiryStatus={updateEnquiryStatus}

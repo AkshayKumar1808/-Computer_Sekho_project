@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Computer_Seekho.Models
+namespace computerseekho.Models
 {
     public class StaffMaster
     {

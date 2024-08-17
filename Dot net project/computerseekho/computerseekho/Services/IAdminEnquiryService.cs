@@ -1,8 +1,8 @@
-﻿using Computer_Seekho.DTO;
-using Computer_Seekho.Models;
-using static Computer_Seekho.DTO.AdminEnquiryDTO;
+﻿using computerseekho.DTO;
+using computerseekho.Models;
+using static computerseekho.DTO.AdminEnquiryDTO;
 
-namespace Computer_Seekho.Services
+namespace computerseekho.Services
 {
     public interface IAdminEnquiryService
     {
