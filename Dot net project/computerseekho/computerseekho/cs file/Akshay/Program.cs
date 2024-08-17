@@ -16,6 +16,7 @@ namespace computerseekho
             builder.Services.AddTransient<ICourseService,CourseImpl>();
             builder.Services.AddScoped<IStaffService, StaffServiceImpl>();
             builder.Services.AddScoped<IAdminEnquiryService, AdminEnquiryServiceImpl>();
+            builder.Services.AddScoped<IFollowUpService, FollowUpServiceImpl>();
 
             // Add services to the container.
 

@@ -1,8 +1,7 @@
-﻿using computerseekho.Models;
-using computerseekho.Models;
+﻿using Computer_Seekho.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace computerseekho.Repositories
+namespace Computer_Seekho.Repositories
 {
     public class ComputerSeekhoDbContext:DbContext
     {
@@ -10,8 +9,10 @@ namespace computerseekho.Repositories
 
        public DbSet<Course>courses { get; set; }
        public  DbSet<StaffMaster> staffmasters { get; set; }
-        public DbSet<AdminEnquiry> adminEnquiry { get; set; }
-
-        public DbSet<Announcement> Announcements { get; set; }
+       public  DbSet<AdminEnquiry> adminEnquiry { get; set; }
+        public DbSet<Followup> followup { get; set; }
+       
     }
+    
+   
 }

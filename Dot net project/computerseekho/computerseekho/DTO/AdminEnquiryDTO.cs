@@ -14,7 +14,7 @@
             public string EnquirerQuery { get; set; }
             public DateTime? EnquiryDate { get; set; }
             public DateTime? FollowUpDate { get; set; }
-            public ulong IsActive { get; set; }
+            public bool IsActive { get; set; }
             public string CourseName { get; set; }
             public string StaffName { get; set; }
         }

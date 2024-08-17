@@ -28,16 +28,16 @@ namespace computerseekho.Models
 
         public DateTime? FollowUpDate { get; set; }
 
-        public ulong IsActive { get; set; }
-        //[NotMapped]
+        public bool IsActive { get; set; }
+        [NotMapped]
         //[JsonIgnore]
-        //public Course Course { get; set; }
+        public Course Course { get; set; }
         [ForeignKey(nameof(Course))]
         public int Cid { get; set; }
-        //[NotMapped]
+        [NotMapped]
         //[JsonIgnore]
 
-        //public StaffMaster StaffMaster { get; set; }
+        public StaffMaster StaffMaster { get; set; }
         [ForeignKey(nameof(StaffMaster))]
         public int Sid { get; set; }
 

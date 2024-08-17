@@ -1,11 +1,12 @@
-﻿using computerseekho.DTO;
-using computerseekho.Models;
-using computerseekho.Repositories;
+﻿using Computer_Seekho.DTO;
+using Computer_Seekho.Models;
+using Computer_Seekho.Repositories;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.EntityFrameworkCore;
-using static computerseekho.DTO.AdminEnquiryDTO;
+using static Computer_Seekho.DTO.AdminEnquiryDTO;
 
 
-namespace computerseekho.Services
+namespace Computer_Seekho.Services
 {
    
     public class AdminEnquiryServiceImpl : IAdminEnquiryService
@@ -18,22 +19,42 @@ namespace computerseekho.Services
 
         public void AddEnquiry(AdminEnquiry adminEnquiry)
         {
-            //find the course id is avilable or not
-            var course= computerSeekhoDbContext.courses.Find(adminEnquiry.Cid);
-            var staff= computerSeekhoDbContext.staffmasters.Find(adminEnquiry.Sid);
-
-            if(course == null || staff==null)
+           
+            try
             {
-                throw new Exception("Invalid course and staff Id");
+                //retrive the coursename and admin coursename from admin enquiry
+                var course = computerSeekhoDbContext.courses.FirstOrDefault(c => c.CourseName == adminEnquiry.Course.CourseName);
+                var staff= computerSeekhoDbContext.staffmasters.FirstOrDefault(C=>C.Staffname==adminEnquiry.StaffMaster.Staffname);
+                if(course == null || staff==null) { throw new Exception("invalid course name or Staff Name"); }
+                adminEnquiry.Cid = course.CourseId;
+                adminEnquiry.Sid = staff.Staffid;
+                // Add AdminEnquiry
+                computerSeekhoDbContext.adminEnquiry.Add(adminEnquiry);
+                 computerSeekhoDbContext.SaveChanges();
+
+                // Create Followup
+                var followup = new Followup
+                {
+                    FollowupDate = adminEnquiry.FollowUpDate,
+                    FollowupMsg = "Initial follow-up message",
+                    IsActive = adminEnquiry.IsActive,
+                    EId = adminEnquiry.EnquiryId,
+                    StId = adminEnquiry.Sid
+                };
+
+                computerSeekhoDbContext.followup.Add(followup);
+                computerSeekhoDbContext.SaveChanges();
+
+                // Commit transaction
+                
+
+                
             }
-            //check the Entry is changed or not by use of Entry()
-            computerSeekhoDbContext.Entry(course).State = EntityState.Unchanged;
-            computerSeekhoDbContext.Entry(staff).State = EntityState.Unchanged;
-
-            //now add the model 
-            computerSeekhoDbContext.adminEnquiry.Add(adminEnquiry);
-
-            computerSeekhoDbContext.SaveChanges();
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.ToString());
+            }
+          
         }
 
         public void DeleteAdminEnquiry(int id)

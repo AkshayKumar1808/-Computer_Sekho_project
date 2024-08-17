@@ -8,7 +8,7 @@
 
         public int CourseDuration { get; set; }
 
-        public ulong CourseIsActive { get; set; }
+        public bool CourseIsActive { get; set; }
 
         public string? CourseName { get; set; }
 
