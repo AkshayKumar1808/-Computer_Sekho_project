@@ -1,0 +1,44 @@
+
+body {
+ 
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+nav {
+  background-color:solid #1a2632;
+  padding: 10px 20px;
+  margin-top: 16px; /* Add space from the top */
+  
+
+}
+
+.nav-link.active {
+  border-bottom: 2px solid lightseagreen; /* Indicates the active page */
+  color: lightseagreen !important;
+}
+
+.signup-signin-link {
+  border: 1px solid lightseagreen; /* Blue border when inactive */
+  border-width: 3px;
+  color:lightseagreen;
+  margin-left: 10px; /* Add some space between the buttons */
+}
+.signup-signin-link1 {
+   
+  color: white;
+  margin-left: 10px; /* Add some space between the buttons */
+}
+
+.signup-signin-link.active {
+  background-color: lightseagreen; /* Blue background when active */
+  
+  color: white !important;
+}
+
+.mt-3 {
+  margin-top: 2px;
+}
+.nav-spacer {
+  flex-grow: 1; /* Takes up remaining space between mr-auto and ml-auto */
+}

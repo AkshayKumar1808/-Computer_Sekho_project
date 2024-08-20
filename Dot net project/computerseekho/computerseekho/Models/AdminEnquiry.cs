@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using computersekho.Models;
+using Newtonsoft.Json;
+using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Text.Json.Serialization;
 
-namespace computerseekho.Models
+namespace Computer_Sekho.Models
 {
     public class AdminEnquiry
     {
@@ -10,15 +11,17 @@ namespace computerseekho.Models
         public int EnquiryId { get; set; }
 
         public string? Address { get; set; }
+
         [Required]
-        public long ? Mobile { get; set; }
+        public long? Mobile { get; set; }
 
         public long AlternateMobile { get; set; }
-        [Required]
 
+        [Required]
         public string? EmailId { get; set; }
 
         public string? EnquirerName { get; set; }
+
         [Required]
         public string? StudentName { get; set; }
 
@@ -27,20 +30,18 @@ namespace computerseekho.Models
         public DateTime? EnquiryDate { get; set; }
 
         public DateTime? FollowUpDate { get; set; }
+        [JsonProperty("courseId")]
+        public int? Cid { get; set; }
+        [JsonProperty("staffId")]
+        public int? Sid { get; set; }
 
         public bool IsActive { get; set; }
         [NotMapped]
-        //[JsonIgnore]
-        public Course Course { get; set; }
-        [ForeignKey(nameof(Course))]
-        public int Cid { get; set; }
+        [ForeignKey(nameof(Cid))]
+        public Course? Course { get; set; }
         [NotMapped]
-        //[JsonIgnore]
-
-        public StaffMaster StaffMaster { get; set; }
-        [ForeignKey(nameof(StaffMaster))]
-        public int Sid { get; set; }
-
-       
+        [ForeignKey(nameof(Sid))]
+        public StaffMaster? StaffMaster { get; set; }
     }
 }
+

@@ -1,13 +1,11 @@
-﻿using Computer_Seekho.Models;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ActionConstraints;
+﻿using Computer_Sekho.Models;
 
-namespace Computer_Seekho.Services
+namespace Computer_Sekho.Services
 {
     public interface IFollowUpService
     {
         public Task<IEnumerable<object>> GetFollowUp();
-       public void updateFollowup(int id,Followup followup);
+       public void updateFollowup(int id, Followup followup);
 
         public void deleteFollowup(int id);
     }

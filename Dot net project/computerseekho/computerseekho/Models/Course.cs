@@ -1,10 +1,14 @@
 ﻿using Newtonsoft.Json;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace computersekho.Models
 {
     public class Course
     {
-       // [JsonProperty("courseId")]
+        [Key]
+        [JsonPropertyName("courseId")]
         public int CourseId { get; set; }
        // [JsonProperty("courseDescription")]
 

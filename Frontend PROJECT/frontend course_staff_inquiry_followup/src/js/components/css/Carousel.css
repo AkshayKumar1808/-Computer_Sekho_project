@@ -1,0 +1,6 @@
+/* Carousel.css */
+.carousel-image {
+  width: 100%; /* Ensure image fits the width of the container */
+  max-height: 580px; /* Set a maximum height for consistency */
+  object-fit: contain; /* Ensure the image fits within the box */
+}

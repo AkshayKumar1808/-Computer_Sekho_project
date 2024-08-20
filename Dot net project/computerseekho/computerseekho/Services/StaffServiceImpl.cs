@@ -25,7 +25,7 @@ namespace Computer_Sekho.Services
 
         public void DeleteStaff(int id)
         {
-            var satff = computerSekhoDbContext.StaffMasters.SingleOrDefault(data => data.Staffid == id);
+            var satff = computerSekhoDbContext.StaffMasters.SingleOrDefault(data => data.StaffId == id);
             if (satff != null)
             {
                 computerSekhoDbContext.StaffMasters.Remove(satff);
@@ -44,14 +44,14 @@ namespace Computer_Sekho.Services
 
         public async Task<StaffMaster> GetStaff(int id)
         {
-           var staff= await computerSekhoDbContext.StaffMasters.SingleOrDefaultAsync(data => data.Staffid == id);
+           var staff= await computerSekhoDbContext.StaffMasters.SingleOrDefaultAsync(data => data.StaffId == id);
             if (staff == null) { throw new Exception("record is not found"); }
             return staff;
         }
 
         public void UpdateStaff(int id, StaffMaster staff)
         {
-            var exstaff = computerSekhoDbContext.StaffMasters.SingleOrDefault(data => data.Staffid == id);
+            var exstaff = computerSekhoDbContext.StaffMasters.SingleOrDefault(data => data.StaffId == id);
             if (staff == null) { throw new Exception("data not found"); }
             exstaff.Staffemail = staff.Staffemail;
             exstaff.Staffmobile = staff.Staffmobile;

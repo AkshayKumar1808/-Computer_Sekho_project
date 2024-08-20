@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Computer_Seekho.Models
+namespace Computer_Sekho.Models
 {
     public class Followup
     {
@@ -18,8 +18,10 @@ namespace Computer_Seekho.Models
 
         public int? StId { get; set; }
         [ForeignKey(nameof(EId))]
+        [NotMapped]
         public virtual AdminEnquiry? Enquirynav { get; set; }
-        [ForeignKey(nameof (StId))]
+        [ForeignKey(nameof(StId))]
+        [NotMapped]
         public virtual StaffMaster? StaffNav { get; set; }
     }
 }

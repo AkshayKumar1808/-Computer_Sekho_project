@@ -1,11 +1,13 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Computer_Sekho.Models
 {
     public class StaffMaster
     {
         [Key]
-        public int Staffid { get; set; }
+        
+        public int StaffId { get; set; }
         
         public string? Staffemail { get; set; }
 
