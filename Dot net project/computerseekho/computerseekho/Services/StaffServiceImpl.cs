@@ -1,31 +1,35 @@
-﻿using computerseekho.Models;
-using computerseekho.Repositories;
-using Microsoft.AspNetCore.Http.HttpResults;
+﻿using Computer_Sekho.Models;
+using Computer_Sekho.Repositories;
 using Microsoft.EntityFrameworkCore;
 
-namespace computerseekho.Services
+namespace Computer_Sekho.Services
 {
     public class StaffServiceImpl:IStaffService
     {
-        private readonly ComputerSeekhoDbContext computerSeekhoDbContext;
-        public StaffServiceImpl(ComputerSeekhoDbContext computerSeekhoDbContext)
+        private readonly ComputerSekhoDbContext computerSekhoDbContext;
+         public StaffServiceImpl(ComputerSekhoDbContext computerSekhoDbContext)
         {
-            this.computerSeekhoDbContext = computerSeekhoDbContext;
+            this.computerSekhoDbContext = computerSekhoDbContext;
         }
 
         public void AddStaff(StaffMaster staff)
         {
-            computerSeekhoDbContext.staffmasters.Add(staff);
-            computerSeekhoDbContext.SaveChanges();
+            if (staff == null)
+            {
+                throw new ArgumentNullException(nameof(staff));
+            }
+
+            computerSekhoDbContext.StaffMasters.Add(staff);
+            computerSekhoDbContext.SaveChanges();
         }
 
         public void DeleteStaff(int id)
         {
-            var satff= computerSeekhoDbContext.staffmasters.SingleOrDefault(data=>data.Staffid==id);
-            if(satff != null)
+            var satff = computerSekhoDbContext.StaffMasters.SingleOrDefault(data => data.Staffid == id);
+            if (satff != null)
             {
-                computerSeekhoDbContext.staffmasters.Remove(satff);
-                computerSeekhoDbContext.SaveChanges();
+                computerSekhoDbContext.StaffMasters.Remove(satff);
+                computerSekhoDbContext.SaveChanges();
             }
             else
             {
@@ -35,23 +39,25 @@ namespace computerseekho.Services
 
         public async Task<IEnumerable<StaffMaster>> GetAll()
         {
-            return await computerSeekhoDbContext.staffmasters.ToArrayAsync();
+            return await computerSekhoDbContext.StaffMasters.ToArrayAsync();
         }
 
         public async Task<StaffMaster> GetStaff(int id)
         {
-            return await computerSeekhoDbContext.staffmasters.SingleOrDefaultAsync(data=>data.Staffid==id);
+           var staff= await computerSekhoDbContext.StaffMasters.SingleOrDefaultAsync(data => data.Staffid == id);
+            if (staff == null) { throw new Exception("record is not found"); }
+            return staff;
         }
 
-        public void UodateStaff(int id, StaffMaster staff)
+        public void UpdateStaff(int id, StaffMaster staff)
         {
-            var exstaff= computerSeekhoDbContext.staffmasters.SingleOrDefault(data=>data.Staffid==id);
+            var exstaff = computerSekhoDbContext.StaffMasters.SingleOrDefault(data => data.Staffid == id);
             if (staff == null) { throw new Exception("data not found"); }
-            exstaff.Staffemail=staff.Staffemail;
-            exstaff.Staffmobile=staff.Staffmobile;
-            exstaff.Staffname=staff.Staffname;
-            exstaff.Staffrole=  staff.Staffrole;
-            computerSeekhoDbContext.SaveChanges();
+            exstaff.Staffemail = staff.Staffemail;
+            exstaff.Staffmobile = staff.Staffmobile;
+            exstaff.Staffname = staff.Staffname;
+            exstaff.Staffrole = staff.Staffrole;
+            computerSekhoDbContext.SaveChanges();
         }
     }
 }

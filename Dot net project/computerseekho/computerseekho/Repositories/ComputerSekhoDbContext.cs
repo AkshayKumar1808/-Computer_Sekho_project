@@ -1,4 +1,5 @@
-﻿using computersekho.Models;
+﻿using Computer_Sekho.Models;
+using computersekho.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Computer_Sekho.Repositories
@@ -8,5 +9,6 @@ namespace Computer_Sekho.Repositories
         public ComputerSekhoDbContext(DbContextOptions<ComputerSekhoDbContext> options) : base(options) { }
 
         public DbSet<Course> Courses { get; set; }
+        public DbSet<StaffMaster> StaffMasters { get; set;}
     }
 }

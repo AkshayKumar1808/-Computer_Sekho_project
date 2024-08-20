@@ -1,12 +1,13 @@
-﻿using computerseekho.Models;
-using computerseekho.Services;
+﻿using Computer_Sekho.Models;
+using Computer_Sekho.Services;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
-namespace computerseekho.Controllers
+namespace Computer_Sekho.Controllers
 {
-    [Route("api/staff/[controller]")]
+   
+    [Route("api/")]
     [ApiController]
     public class StaffController : ControllerBase
     {
@@ -15,12 +16,11 @@ namespace computerseekho.Controllers
         {
             this.staffService = staffService;
         }
-
         // GET: api/<StaffController>
-        [HttpGet]
+        [HttpGet("pta/getstaff")]
         public async Task<IEnumerable<StaffMaster>> Get()
         {
-             return await staffService.GetAll();
+            return await staffService.GetAll();
         }
 
         // GET api/<StaffController>/5
@@ -31,21 +31,21 @@ namespace computerseekho.Controllers
         }
 
         // POST api/<StaffController>
-        [HttpPost]
+        [HttpPost("pta/addstaff")]
         public void Post([FromBody] StaffMaster value)
         {
             staffService.AddStaff(value);
         }
 
         // PUT api/<StaffController>/5
-        [HttpPut("{id}")]
+        [HttpPut("admin/updatestaff/{id}")]
         public void Put(int id, [FromBody] StaffMaster value)
         {
-            staffService.UodateStaff(id, value);
+            staffService.UpdateStaff(id, value);
         }
 
         // DELETE api/<StaffController>/5
-        [HttpDelete("{id}")]
+        [HttpDelete("admin/deletestaff/{id}")]
         public void Delete(int id)
         {
             staffService.DeleteStaff(id);
