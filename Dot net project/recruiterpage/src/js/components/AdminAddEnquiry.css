@@ -1,0 +1,71 @@
+.admin-enquiry-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.enquirer-name label,
+.student-name label,
+.address label,
+.mobile label,
+.alternate-mobile label,
+.email-id label,
+.enquiry-date label,
+.enquirer-query label,
+.is-active label,
+.course-id label,
+.staff-id label,
+.follow-up-date label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.enquirer-name input,
+.student-name input,
+.address input,
+.mobile input,
+.alternate-mobile input,
+.email-id input,
+.enquiry-date input,
+.enquirer-query textarea,
+.course-id input,
+.staff-id input,
+.follow-up-date input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.enquirer-query textarea {
+    resize: vertical;
+    height: 100px;
+}
+
+.is-active input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+.submit-button {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}

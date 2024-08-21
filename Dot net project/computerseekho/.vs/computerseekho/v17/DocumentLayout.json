@@ -1,419 +1,922 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\",
+  "WorkspaceRootPath": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.StaffMaster.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\cs file\\himanshu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\cs file\\himanshu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240820181845_cm00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240820181845_cm00.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\cs file\\akshay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\cs file\\akshay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\staffserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\staffserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\courseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\courseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\followupcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\followupcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Migrations\\20240816144352_inti 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:computerseekho\\Migrations\\20240816144352_inti 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\adminenquiryserviceimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\adminenquiryserviceimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\repositories\\computerseekhodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\repositories\\computerseekhodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\announcementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\announcementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\followupserviceimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\followupserviceimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\ifollowupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\ifollowupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\controllers\\adminenquirycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\controllers\\adminenquirycontrollercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\staffmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\staffmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\staffserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\staffserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\iadminenquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\iadminenquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\models\\adminenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\models\\adminenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\adminenquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\adminenquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\models\\staffmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\models\\staffmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\followup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\followup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\adminenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\adminenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\iadminenquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\iadminenquiryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\adminenquiryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\adminenquiryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\studentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\studentmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\dto\\adminenquirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\dto\\adminenquirydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.StudentMaster.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\announcementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\announcementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\services\\iannouncementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\services\\iannouncementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\coursecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\coursecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|c:\\users\\himanshu\\documents\\github\\computer-seekho-javaadv\\dot net project\\computerseekho\\computerseekho\\computerseekho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE3CFB2D-2DB2-4963-A9CE-622144051F7F}|computerseekho\\computerseekho.csproj|solutionrelative:computerseekho\\computerseekho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\dotcomputerseekho\\computerseekho\\computerseekho\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\courseimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\courseimpl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\registrationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\registrationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\iregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\iregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\migrations\\20240819181058_com90.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:migrations\\20240819181058_com90.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\tempenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\tempenquiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\tempenquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\tempenquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\studentplacementimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\studentplacementimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\tempenquiryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\tempenquiryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\itempenquiryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\itempenquiryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\batchimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\batchimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\announcementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.tempEnquiry.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\migrations\\20240818163426_comp96.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:migrations\\20240818163426_comp96.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\recruitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\recruitercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\iannouncementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\iannouncementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.AdminLogins.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.ImageMaster.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\services\\istudentplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:services\\istudentplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Umar Shaikh\\AppData\\Local\\Temp\\wzylijpj..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.adminEnquiry.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Umar Shaikh\\AppData\\Local\\Temp\\jiuwhk3b..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\migrations\\20240814010330_computerseekho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:migrations\\20240814010330_computerseekho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\migrations\\20240818163117_comp97.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:migrations\\20240818163117_comp97.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|c:\\users\\umar shaikh\\source\\repos\\computerseekho\\migrations\\20240818065323_comp98.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2E4407-3193-4B91-B6DA-A18777612780}|ComputerSeekho.csproj|solutionrelative:migrations\\20240818065323_comp98.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedHeight": 184,
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StaffServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\StaffServiceImpl.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\StaffServiceImpl.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\StaffServiceImpl.cs",
-              "RelativeToolTip": "computerseekho\\Services\\StaffServiceImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:40:02.136Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IStaffService.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\IStaffService.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\IStaffService.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\IStaffService.cs",
-              "RelativeToolTip": "computerseekho\\Services\\IStaffService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "DocumentIndex": 1,
+              "Title": "20240820181845_cm00.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240820181845_cm00.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240820181845_cm00.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240820181845_cm00.cs",
+              "RelativeToolTip": "Migrations\\20240820181845_cm00.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:39:55.686Z",
+              "WhenOpened": "2024-08-20T18:18:45.988Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ICourseService.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\ICourseService.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\ICourseService.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\ICourseService.cs",
-              "RelativeToolTip": "computerseekho\\Services\\ICourseService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:38:39.26Z",
+              "DocumentIndex": 0,
+              "Title": "dbo.StaffMaster [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.StaffMaster.sql",
+              "ToolTip": "dbo.StaffMaster [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-18T07:00:46.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CourseImpl.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\CourseImpl.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\CourseImpl.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\CourseImpl.cs",
-              "RelativeToolTip": "computerseekho\\Services\\CourseImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Title": "FollowUpController .cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\FollowUpController .cs",
+              "RelativeDocumentMoniker": "Controllers\\FollowUpController .cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\FollowUpController .cs",
+              "RelativeToolTip": "Controllers\\FollowUpController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:38:29.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "computerseekho\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAowAkAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:42:05.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\cs file\\Akshay\\Program.cs",
-              "RelativeDocumentMoniker": "computerseekho\\cs file\\Akshay\\Program.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\cs file\\Akshay\\Program.cs",
-              "RelativeToolTip": "computerseekho\\cs file\\Akshay\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowAoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:35:33.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\cs file\\Himanshu\\Program.cs",
-              "RelativeDocumentMoniker": "computerseekho\\cs file\\Himanshu\\Program.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\cs file\\Himanshu\\Program.cs",
-              "RelativeToolTip": "computerseekho\\cs file\\Himanshu\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:33:09.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AdminEnquiryControllercs.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\AdminEnquiryControllercs.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Controllers\\AdminEnquiryControllercs.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\AdminEnquiryControllercs.cs",
-              "RelativeToolTip": "computerseekho\\Controllers\\AdminEnquiryControllercs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:41:25.516Z",
+              "WhenOpened": "2024-08-20T18:15:38.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20240816144352_inti 1.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Migrations\\20240816144352_inti 1.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Migrations\\20240816144352_inti 1.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Migrations\\20240816144352_inti 1.cs",
-              "RelativeToolTip": "computerseekho\\Migrations\\20240816144352_inti 1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Title": "AdminEnquiryServiceImpl .cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\AdminEnquiryServiceImpl .cs",
+              "RelativeDocumentMoniker": "Services\\AdminEnquiryServiceImpl .cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\AdminEnquiryServiceImpl .cs",
+              "RelativeToolTip": "Services\\AdminEnquiryServiceImpl .cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAiwFgAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:43:52.813Z",
+              "WhenOpened": "2024-08-20T18:03:13.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "StaffController.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\StaffController.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Controllers\\StaffController.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\StaffController.cs",
-              "RelativeToolTip": "computerseekho\\Controllers\\StaffController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Title": "FollowUpServiceImpl .cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\FollowUpServiceImpl .cs",
+              "RelativeDocumentMoniker": "Services\\FollowUpServiceImpl .cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\FollowUpServiceImpl .cs",
+              "RelativeToolTip": "Services\\FollowUpServiceImpl .cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:42:11.235Z",
+              "WhenOpened": "2024-08-20T18:11:12.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ComputerSeekhoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Repositories\\ComputerSeekhoDbContext.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Repositories\\ComputerSeekhoDbContext.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Repositories\\ComputerSeekhoDbContext.cs",
-              "RelativeToolTip": "computerseekho\\Repositories\\ComputerSeekhoDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "DocumentIndex": 2,
+              "Title": "StaffServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\StaffServiceImpl.cs",
+              "RelativeDocumentMoniker": "Services\\StaffServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\StaffServiceImpl.cs",
+              "RelativeToolTip": "Services\\StaffServiceImpl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:23:48.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AdminEnquiry.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\AdminEnquiry.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Models\\AdminEnquiry.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\AdminEnquiry.cs",
-              "RelativeToolTip": "computerseekho\\Models\\AdminEnquiry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:39:43.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StaffMaster.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\StaffMaster.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Models\\StaffMaster.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\StaffMaster.cs",
-              "RelativeToolTip": "computerseekho\\Models\\StaffMaster.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:39:14.32Z",
+              "WhenOpened": "2024-08-20T05:25:30.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AnnouncementsController.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\AnnouncementsController.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Controllers\\AnnouncementsController.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Controllers\\AnnouncementsController.cs",
-              "RelativeToolTip": "computerseekho\\Controllers\\AnnouncementsController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAUwFAAAABQAAAA",
+              "Title": "IFollowUpService.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IFollowUpService.cs",
+              "RelativeDocumentMoniker": "Services\\IFollowUpService.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IFollowUpService.cs",
+              "RelativeToolTip": "Services\\IFollowUpService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T09:20:06.343Z",
+              "WhenOpened": "2024-08-20T18:12:03.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:47:19.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaffMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\StaffMaster.cs",
+              "RelativeDocumentMoniker": "Models\\StaffMaster.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\StaffMaster.cs",
+              "RelativeToolTip": "Models\\StaffMaster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:13:58.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnnouncementServices.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\AnnouncementServices.cs",
+              "RelativeDocumentMoniker": "Services\\AnnouncementServices.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\AnnouncementServices.cs",
+              "RelativeToolTip": "Services\\AnnouncementServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:36:22.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IAdminEnquiryService.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\IAdminEnquiryService.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\IAdminEnquiryService.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\IAdminEnquiryService.cs",
-              "RelativeToolTip": "computerseekho\\Services\\IAdminEnquiryService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IAdminEnquiryService.cs",
+              "RelativeDocumentMoniker": "Services\\IAdminEnquiryService.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IAdminEnquiryService.cs",
+              "RelativeToolTip": "Services\\IAdminEnquiryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:38:17.944Z",
+              "WhenOpened": "2024-08-20T18:12:42.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AdminEnquiryServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\AdminEnquiryServiceImpl.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\AdminEnquiryServiceImpl.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\AdminEnquiryServiceImpl.cs",
-              "RelativeToolTip": "computerseekho\\Services\\AdminEnquiryServiceImpl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAgAAAA",
+              "DocumentIndex": 14,
+              "Title": "Followup.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Followup.cs",
+              "RelativeDocumentMoniker": "Models\\Followup.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Followup.cs",
+              "RelativeToolTip": "Models\\Followup.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:37:04.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Announcement.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\Announcement.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Models\\Announcement.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\Announcement.cs",
-              "RelativeToolTip": "computerseekho\\Models\\Announcement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:29:00.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AdminEnquiryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\DTO\\AdminEnquiryDTO.cs",
-              "RelativeDocumentMoniker": "computerseekho\\DTO\\AdminEnquiryDTO.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\DTO\\AdminEnquiryDTO.cs",
-              "RelativeToolTip": "computerseekho\\DTO\\AdminEnquiryDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:37:31.418Z",
+              "WhenOpened": "2024-08-20T18:08:12.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Models\\Course.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Models\\Course.cs",
-              "RelativeToolTip": "computerseekho\\Models\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "AdminEnquiry.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\AdminEnquiry.cs",
+              "RelativeDocumentMoniker": "Models\\AdminEnquiry.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\AdminEnquiry.cs",
+              "RelativeToolTip": "Models\\AdminEnquiry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:27:11.931Z",
+              "WhenOpened": "2024-08-20T18:06:41.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\appsettings.json",
-              "RelativeDocumentMoniker": "computerseekho\\appsettings.json",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\appsettings.json",
-              "RelativeToolTip": "computerseekho\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-14T05:57:21.469Z",
+              "DocumentIndex": 13,
+              "Title": "AdminEnquiryController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\AdminEnquiryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminEnquiryController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\AdminEnquiryController.cs",
+              "RelativeToolTip": "Controllers\\AdminEnquiryController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T18:02:33.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IAnnouncementServices.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\IAnnouncementServices.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\IAnnouncementServices.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\IAnnouncementServices.cs",
-              "RelativeToolTip": "computerseekho\\Services\\IAnnouncementServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "DocumentIndex": 12,
+              "Title": "AppdbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Repository\\AppdbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\AppdbContext.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Repository\\AppdbContext.cs",
+              "RelativeToolTip": "Repository\\AppdbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA0wA8AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T06:37:56.584Z",
+              "WhenOpened": "2024-08-20T05:22:08.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:46:46.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentMaster.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\StudentMaster.cs",
+              "RelativeDocumentMoniker": "Models\\StudentMaster.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\StudentMaster.cs",
+              "RelativeToolTip": "Models\\StudentMaster.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T17:28:25.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.StudentMaster [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.StudentMaster.sql",
+              "ToolTip": "dbo.StudentMaster [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-20T17:30:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:17:09.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "AnnouncementServices.cs",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\AnnouncementServices.cs",
-              "RelativeDocumentMoniker": "computerseekho\\Services\\AnnouncementServices.cs",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\Services\\AnnouncementServices.cs",
-              "RelativeToolTip": "computerseekho\\Services\\AnnouncementServices.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAkwAQAAAAhAAAA",
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StaffController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:40:08.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T05:26:45.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseController .cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\CourseController .cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController .cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\CourseController .cs",
+              "RelativeToolTip": "Controllers\\CourseController .cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:26:21.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IStaffService.cs",
+              "RelativeDocumentMoniker": "Services\\IStaffService.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IStaffService.cs",
+              "RelativeToolTip": "Services\\IStaffService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:24:56.547Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\dotcomputerseekho\\computerseekho\\computerseekho\\Program.cs",
-              "ToolTip": "F:\\dotcomputerseekho\\computerseekho\\computerseekho\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABMAAAA",
+              "Title": "CourseImpl .cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\CourseImpl .cs",
+              "RelativeDocumentMoniker": "Services\\CourseImpl .cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\CourseImpl .cs",
+              "RelativeToolTip": "Services\\CourseImpl .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T05:13:48.359Z"
+              "WhenOpened": "2024-08-20T05:23:33.959Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "computerseekho.csproj",
-              "DocumentMoniker": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\computerseekho.csproj",
-              "RelativeDocumentMoniker": "computerseekho\\computerseekho.csproj",
-              "ToolTip": "C:\\Users\\himanshu\\Documents\\GitHub\\Computer-Seekho-javaADV\\Dot net project\\computerseekho\\computerseekho\\computerseekho.csproj",
-              "RelativeToolTip": "computerseekho\\computerseekho.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-14T06:36:46.544Z"
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourseService.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\ICourseService.cs",
+              "RelativeToolTip": "Services\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:22:43.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:28:28.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegistrationServices.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\RegistrationServices.cs",
+              "RelativeDocumentMoniker": "Services\\RegistrationServices.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\RegistrationServices.cs",
+              "RelativeToolTip": "Services\\RegistrationServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:24:40.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IRegistration.cs",
+              "RelativeDocumentMoniker": "Services\\IRegistration.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IRegistration.cs",
+              "RelativeToolTip": "Services\\IRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:23:24.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T08:04:08.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240819181058_com90.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240819181058_com90.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819181058_com90.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240819181058_com90.cs",
+              "RelativeToolTip": "Migrations\\20240819181058_com90.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T18:10:59.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "tempEnquiry.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\tempEnquiry.cs",
+              "RelativeDocumentMoniker": "Models\\tempEnquiry.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\tempEnquiry.cs",
+              "RelativeToolTip": "Models\\tempEnquiry.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:46:06.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "tempEnquiryController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\tempEnquiryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\tempEnquiryController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\tempEnquiryController.cs",
+              "RelativeToolTip": "Controllers\\tempEnquiryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:55:34.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ItempEnquiryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\ItempEnquiryServices.cs",
+              "RelativeDocumentMoniker": "Services\\ItempEnquiryServices.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\ItempEnquiryServices.cs",
+              "RelativeToolTip": "Services\\ItempEnquiryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T18:28:25.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "tempEnquiryServices.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\tempEnquiryServices.cs",
+              "RelativeDocumentMoniker": "Services\\tempEnquiryServices.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\tempEnquiryServices.cs",
+              "RelativeToolTip": "Services\\tempEnquiryServices.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T18:27:59.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentPlacementImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\StudentPlacementImpl.cs",
+              "RelativeDocumentMoniker": "Services\\StudentPlacementImpl.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\StudentPlacementImpl.cs",
+              "RelativeToolTip": "Services\\StudentPlacementImpl.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:52:57.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BatchImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\BatchImpl.cs",
+              "RelativeDocumentMoniker": "Services\\BatchImpl.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\BatchImpl.cs",
+              "RelativeToolTip": "Services\\BatchImpl.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAwwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:00:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BatchController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "Controllers\\BatchController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAswFsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T04:01:57.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AnnouncementsController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\AnnouncementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AnnouncementsController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\AnnouncementsController.cs",
+              "RelativeToolTip": "Controllers\\AnnouncementsController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswE0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:22:07.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240818163117_comp97.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240818163117_comp97.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240818163117_comp97.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240818163117_comp97.cs",
+              "RelativeToolTip": "Migrations\\20240818163117_comp97.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:31:17.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240818163426_comp96.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240818163426_comp96.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240818163426_comp96.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240818163426_comp96.cs",
+              "RelativeToolTip": "Migrations\\20240818163426_comp96.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T16:34:26.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RecruiterController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\RecruiterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RecruiterController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\RecruiterController.cs",
+              "RelativeToolTip": "Controllers\\RecruiterController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAYwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T07:47:40.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IAnnouncementServices.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IAnnouncementServices.cs",
+              "RelativeDocumentMoniker": "Services\\IAnnouncementServices.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IAnnouncementServices.cs",
+              "RelativeToolTip": "Services\\IAnnouncementServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T07:37:50.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "Services\\IAuthServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:49:06.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Announcement.cs",
+              "RelativeDocumentMoniker": "Models\\Announcement.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Models\\Announcement.cs",
+              "RelativeToolTip": "Models\\Announcement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T09:57:38.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20240818065323_comp98.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240818065323_comp98.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240818065323_comp98.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240818065323_comp98.cs",
+              "RelativeToolTip": "Migrations\\20240818065323_comp98.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:53:23.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T15:09:39.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IStudentPlacement.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IStudentPlacement.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentPlacement.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Services\\IStudentPlacement.cs",
+              "RelativeToolTip": "Services\\IStudentPlacement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T13:52:00.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:19:56.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-13T17:34:41.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AppdbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\AppdbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppdbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\AppdbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppdbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:18:24.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20240814010330_ComputerSeekho.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240814010330_ComputerSeekho.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240814010330_ComputerSeekho.Designer.cs",
+              "ToolTip": "C:\\Users\\Umar Shaikh\\source\\repos\\ComputerSeekho\\Migrations\\20240814010330_ComputerSeekho.Designer.cs",
+              "RelativeToolTip": "Migrations\\20240814010330_ComputerSeekho.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:17:36.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.tempEnquiry [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.tempEnquiry.sql",
+              "ToolTip": "dbo.tempEnquiry [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-18T16:38:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "dbo.AdminLogins [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.AdminLogins.sql",
+              "ToolTip": "dbo.AdminLogins [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-18T07:05:29.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.ImageMaster [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.ImageMaster.sql",
+              "ToolTip": "dbo.ImageMaster [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T06:53:44.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\AppData\\Local\\Temp\\wzylijpj..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\wzylijpj..sql",
+              "ToolTip": "SQLQuery3.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T11:26:23.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "dbo.adminEnquiry [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/project/True/SqlTable/dbo.adminEnquiry.sql",
+              "ToolTip": "dbo.adminEnquiry [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T10:48:03.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\Umar Shaikh\\AppData\\Local\\Temp\\jiuwhk3b..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\jiuwhk3b..sql",
+              "ToolTip": "SQLQuery2.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T06:53:55.03Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

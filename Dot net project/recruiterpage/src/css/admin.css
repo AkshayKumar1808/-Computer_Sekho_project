@@ -1,0 +1,142 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+    text-align: left;
+  }
+  
+  /* .header-content {
+    display: flex;
+    align-items: center;
+  } */
+
+  .header-content {
+  position: relative;
+}
+
+  
+  .logo {
+    width: 150px;
+    height: auto;
+    display: none; /* Hide the logo */
+  }
+  
+  .buttons {
+    margin: 20px 0;
+  }
+  
+  .nav-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 8px 15px; /* Reduced padding to make the buttons smaller */
+    margin: 0 8px; /* Adjusted margin for spacing between buttons */
+    cursor: pointer;
+    font-size: 14px; /* Reduced font size */
+  }
+  
+  .nav-button:hover {
+    background-color: #45a049;
+  }
+  
+  .welcome {
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  .staff-name {
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    margin: 20px auto;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .pagination {
+    margin: 20px 0;
+  }
+  
+  .pagination-link {
+    color: #4CAF50;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 16px;
+  }
+  
+  .pagination-link:hover {
+    text-decoration: underline;
+  }
+  /* .dropdown-menu {
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-menu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-menu a:hover {
+    background-color: #f1f1f1;
+  }
+   */
+   .dropdown-menu {
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 10; /* Ensure it's on top of other elements */
+    left: 11%; /* Adjust as needed */
+    top: 16%; /* Position it just below the button */
+    display: block; /* Ensure it's displayed when toggled */
+  }
+  
+  .dropdown-menu a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-menu a:hover {
+    background-color: #f1f1f1;
+  }
+  
+  

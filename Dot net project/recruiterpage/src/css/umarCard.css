@@ -1,0 +1,25 @@
+.Mcard {
+    max-width: 50rem;
+    height: 35rem;
+
+    margin: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    margin-top: 30px;
+  }
+  
+  .Mcard-content {
+    padding: 20px;
+    width: 30rem;
+    max-width: 30rem;
+    
+  }
+  
+  .Mcard-title {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  

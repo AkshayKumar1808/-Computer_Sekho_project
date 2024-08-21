@@ -1,0 +1,108 @@
+/* General styling for the form */
+form {
+  max-width: 75%; /* Adjusted from 1000% to a more reasonable max-width */
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: #f9f9f9;
+  box-sizing: border-box; /* Changed from content-box to border-box for better box sizing */
+  border: 2px solid black; /* Added solid to border */
+}
+
+/* Form heading */
+h2 {
+  text-align: center;
+  color:rgb(24, 24, 90);
+  margin-bottom: 20px;
+}
+
+/* Section headings */
+h3 {
+  color:rgb(24, 24, 90);
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+/* Styling for form elements */
+div {
+  margin-bottom: 15px;
+}
+
+/* Form groups with flexbox for side-by-side layout */
+.form-group {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap; /* Allows wrapping if the container is too narrow */
+}
+
+/* Two text boxes side by side */
+.form-group .half-width {
+  flex: 1;
+  min-width: 0; /* Allow text boxes to shrink */
+}
+
+/* Labels */
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+ color:rgb(24, 24, 90);
+}
+
+/* Input fields and text areas */
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+input[type="number"],
+input[type="date"],
+textarea,
+select {
+  width: 100%; /* Ensure input fields take full width of the parent element */
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+/* Input focus */
+input:focus,
+textarea:focus,
+select:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+/* Disabled input fields */
+input:disabled,
+textarea:disabled {
+  background-color: #e9ecef;
+  cursor: not-allowed;
+}
+
+/* Submit button styling */
+button[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: red;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+/* Button hover effect */
+button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+  .form-group {
+    flex-direction: column;
+  }
+}
